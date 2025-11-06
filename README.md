@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venice</h1>
-<h3 align="center">Hey there! I’m Venice, a 3rd-year BSIT student passionate about technology, coding, and continuous learning. I enjoy building projects that solve real-world problems and help me grow as a future IT professional.</h3>
+<h3 align="center">A 3rd-year BSIT student passionate about technology, coding, and continuous learning. I enjoy building projects that solve real-world problems and help me grow as a future IT professional.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vncvppp&label=Profile%20views&color=0e75b6&style=flat" alt="vncvppp" /> </p>
 
